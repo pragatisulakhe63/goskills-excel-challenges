@@ -11,5 +11,5 @@ select the range to convert into table use keyboard shortcut (ctrl + T)
 * ii) The average response time in days
 * iii) The number of level 1 or level 2 issues that were resolved in less than 5 days
 
-# Challenge 3 - Power Query and Pivot Tables
-# Challenge 4 - Analyze Data With Power Query
+# Challenge 3 - Power Query and Pivot Tables.
+# Challenge 4 - Analyze Data With Power Query.
