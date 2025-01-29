@@ -13,3 +13,4 @@ select the range to convert into table use keyboard shortcut (ctrl + T)
 
 # Challenge 3 - Power Query and Pivot Tables.
 # Challenge 4 - Analyze Data With Power Query.
+# 
